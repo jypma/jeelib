@@ -3,6 +3,7 @@
 	<name>jeelib</name>
 	<comment></comment>
 	<projects>
+		<project>ArduinoCore</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
